@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7584d894aa823748ab545185d7d4a7c, type: 3}
+  m_Name: 2_RedWolfData
+  m_EditorClassIdentifier: 
+  _index: 2
+  _ratingToOpen: 300
+  _typeWolf: 1
+  _body: {fileID: 21300000, guid: d6b70a8074e43d042a921a7492ce0714, type: 3}
+  _leftHand: {fileID: 21300000, guid: 9963c68bb3b13534580f6dc874fd7808, type: 3}
+  _rightHand: {fileID: 21300000, guid: 0604e6b3dbd0b6848bef96139ba34605, type: 3}
+  _bow: {fileID: 21300000, guid: 8f68c646f3e27ca4cb22c776d3f057a2, type: 3}
+  _characterIcon: {fileID: 21300000, guid: f26e72e960b2361469990fd56320de47, type: 3}

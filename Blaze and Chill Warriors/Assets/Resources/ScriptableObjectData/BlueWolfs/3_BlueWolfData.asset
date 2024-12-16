@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d023d61bde5bb7f47a89624d969a2248, type: 3}
+  m_Name: 3_BlueWolfData
+  m_EditorClassIdentifier: 
+  _index: 3
+  _ratingToOpen: 700
+  _typeWolf: 0
+  _body: {fileID: 21300000, guid: 8014434e919196a43ad07141e7dc2bf6, type: 3}
+  _leftHand: {fileID: 21300000, guid: c44a1feee039f62459d093fa64261f59, type: 3}
+  _rightHand: {fileID: 21300000, guid: 80bb9fa9a74fea947b20d8ae2d327315, type: 3}
+  _bow: {fileID: 21300000, guid: e9e911d83d405b1469a9c4441fef40e9, type: 3}
+  _characterIcon: {fileID: 21300000, guid: e55b59f2ab67e92459d553112b2fb01a, type: 3}
